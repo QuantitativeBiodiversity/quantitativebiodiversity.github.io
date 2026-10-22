@@ -9,8 +9,6 @@ header:
 
 **BIOL Z620**
 
-![Quantitative Biodiversity course logo]({{ '/assets/images/qb-logo.png' | relative_url }}){: .qb-emblem }
-
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in Earth’s history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
 [Student Portal](https://github.com/QuantitativeBiodiversity)

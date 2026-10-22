@@ -20,9 +20,17 @@ body { color: #273348; }
 .page__content a:hover { color: var(--qb-indigo); }
 .page__title, .page__content h2 { color: var(--qb-navy); }
 .page__hero--overlay { background-color: var(--qb-navy); }
-.page__hero--overlay .page__title { color: #fff; text-shadow: 0 2px 10px rgba(13, 23, 49, .55); }
+.page__hero--overlay .page__title {
+  display: inline-block;
+  max-width: 100%;
+  padding: .22em .34em;
+  border: 1px solid rgba(120, 186, 205, .45);
+  border-radius: 8px;
+  background: rgba(20, 36, 74, .9);
+  color: #fff;
+  text-shadow: 0 2px 6px rgba(13, 23, 49, .4);
+}
 .page__hero--overlay .wrapper { padding-top: 3.5em; padding-bottom: 3.5em; }
-.qb-emblem { display: block; width: min(180px, 45vw); height: auto; margin: 1.3em auto 2em; }
 @media (max-width: 600px) {
   .page__hero--overlay .wrapper { padding-top: 2em; padding-bottom: 2em; }
 }
