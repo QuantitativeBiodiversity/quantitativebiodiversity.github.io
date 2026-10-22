@@ -19,7 +19,12 @@ body { color: #273348; }
 .page__content a { color: #086b91; }
 .page__content a:hover { color: var(--qb-indigo); }
 .page__title, .page__content h2 { color: var(--qb-navy); }
-.page__hero--overlay { background-color: var(--qb-navy); }
+.page__hero--overlay {
+  padding: 0;
+  background-color: var(--qb-navy);
+  background-position: center center;
+  background-size: cover;
+}
 .page__hero--overlay .page__title {
   display: inline-block;
   max-width: 100%;
@@ -30,7 +35,7 @@ body { color: #273348; }
   color: #fff;
   text-shadow: 0 2px 6px rgba(13, 23, 49, .4);
 }
-.page__hero--overlay .wrapper { padding-top: 3.5em; padding-bottom: 3.5em; }
+.page__hero--overlay .wrapper { padding-top: 2.2em; padding-bottom: 2.2em; }
 @media (max-width: 600px) {
-  .page__hero--overlay .wrapper { padding-top: 2em; padding-bottom: 2em; }
+  .page__hero--overlay .wrapper { padding-top: 1.25em; padding-bottom: 1.25em; }
 }
