@@ -1,11 +1,17 @@
 ---
-layout: home
+layout: single
 title: Quantitative Biodiversity
 permalink: /
 author_profile: false
+header:
+  overlay_image: /assets/images/heatmap-banner.svg
+  overlay_filter: 0.12
+  show_overlay_excerpt: false
 ---
 
 **BIOL Z620 · Indiana University**
+
+![Quantitative Biodiversity course logo]({{ '/assets/images/qb-logo.png' | relative_url }}){: .qb-emblem }
 
 Biodiversity refers to variation among life, from populations to species and entire ecosystems. This course explores how to characterize and quantify it.
 

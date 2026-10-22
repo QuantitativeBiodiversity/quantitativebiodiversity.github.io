@@ -1,10 +1,12 @@
 title: Quantitative Biodiversity
 subtitle: BIOL Z620
+logo: /assets/images/qb-logo.png
+og_image: /assets/images/qb-logo.png
 description: Graduate course in quantitative biodiversity at Indiana University
 url: "https://quantitativebiodiversity.github.io"
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+minimal_mistakes_skin: aqua
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
