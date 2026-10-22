@@ -1,0 +1,11 @@
+main:
+  - title: Summary
+    url: /summary/
+  - title: Objectives
+    url: /objectives/
+  - title: Resources
+    url: /resources/
+  - title: Schedule
+    url: /schedule/
+  - title: Contact
+    url: /contact/
