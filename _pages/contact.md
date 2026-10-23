@@ -9,9 +9,9 @@ Dr. Jay T. Lennon
 261 Biology Building  
 [lennonj@iu.edu](mailto:lennonj@iu.edu)
 
-## Other instructors
+<!--## Other instructors
 
-Dr. Emma Bueren  
+<!--Dr. Emma Bueren  
 073 Biology Building (office)  
 261 Biology Building (lab)  
 [ebueren@iu.edu](mailto:ebueren@iu.edu)
